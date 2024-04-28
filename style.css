@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(138, 211, 221);
+}
+h1 {
+    color: rgb(rgb(72, 30, 20));
+}
+h3{
+    color:black;
+}
+h2{
+    color:black;
+}
+h4{
+    color:yellow;
+}
+h5{
+    color:aqua;
+}
+button {
+    color: brown;
+    background-color: blue;
+}
+.button{
+    background-color: blue;
+}
+#button{
+    background-color: blueviolet;
+}
